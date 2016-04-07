@@ -44,6 +44,7 @@ PS.: Caso você encontre alguma empresa que falta nessa lista ou alguma que est�
 - Defensoria Pública do Tocantins
 - Dekode
 - DexaTec
+- Digesto
 - Diários Associados
 - Disqus
 - Doingcast
